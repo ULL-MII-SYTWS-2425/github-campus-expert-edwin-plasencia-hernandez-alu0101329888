@@ -4,7 +4,7 @@
 Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
 ### 1. Aceptar la asignación de la práctica
-![img1]
+![a1]
 Se acepta la asignación de la práctica
 
 ### 2. Creación del project board automated kanban
@@ -23,14 +23,14 @@ He solicitado de un curso anterior de "Procesadores de Lenguajes" el student dev
 
 ### 4. He instalado Github CLI en la máquina virtual de la asignatura
 
-[!img5]
+![img5]
 
 ### Finalización de la práctica
 Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
 
 
-[img1]: /images/intro1.png
-[img2]: /images/board1.png
-[img3]: /images/board2.png
-[img4]: /images/board3.png
-[img5]: /images/board4.png
+[img1]: /images/a1.png
+[img2]: /images/a2.png
+[img3]: /images/a3.png
+[img4]: /images/a4.png
+[img5]: /images/a5.png
