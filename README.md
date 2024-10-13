@@ -4,8 +4,10 @@
 Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
 ### 1. Aceptar la asignación de la práctica
-![img1]
+
 Se acepta la asignación de la práctica
+
+![img1]
 
 ### 2. Creación del project board automated kanban
 
@@ -26,7 +28,10 @@ He solicitado de un curso anterior de "Procesadores de Lenguajes" el student dev
 ![img5]
 
 ### Finalización de la práctica
+
 Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
+[Enlace al repositorio](https://github.com/ULL-MII-SYTWS-2425/github-campus-expert-edwin-plasencia-hernandez-alu0101329888.git)
+
 
 
 [img1]: /images/a1.png
