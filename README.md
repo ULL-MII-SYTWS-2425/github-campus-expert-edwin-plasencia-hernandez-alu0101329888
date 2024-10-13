@@ -4,7 +4,7 @@
 Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
 ### 1. Aceptar la asignación de la práctica
-![a1]
+![img1]
 Se acepta la asignación de la práctica
 
 ### 2. Creación del project board automated kanban
